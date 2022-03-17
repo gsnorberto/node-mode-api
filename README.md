@@ -19,6 +19,9 @@ npm install -D @types/cors
 
 npm install mysql2
 
+>> Biblioteca de upload
+npm install multer
+npm install -D @types/multer
 
 >> LISTA DE FRASES (end point)
 POST /frases -> adicionar nova frase
