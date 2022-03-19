@@ -22,6 +22,9 @@ npm install mysql2
 >> Biblioteca de upload
 npm install multer
 npm install -D @types/multer
+>> Biblioteca de manipulação de Imagens
+npm install sharp
+npm install -D @types/sharp
 
 >> LISTA DE FRASES (end point)
 POST /frases -> adicionar nova frase
