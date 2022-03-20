@@ -1,5 +1,7 @@
 # node-mode-api
 
+# PROJETO DESENVOLVIDO JUNTO AO CURSO B7WEB. 
+
 >> COMANDOS
 npm init -y
 
